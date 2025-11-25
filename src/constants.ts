@@ -1,4 +1,4 @@
-import { Girl, WeekDay } from './types';
+import { Girl } from './types';
 
 export const APP_NAME = "波波會館";
 export const SUB_TITLE = "台北中山林森五木 半套按摩舒壓紓壓";
