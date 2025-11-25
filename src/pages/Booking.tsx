@@ -1,5 +1,5 @@
 import React from 'react';
-import { Heart, AlertTriangle, CheckCircle, ThumbsUp } from 'lucide-react';
+import { Heart, AlertTriangle, CheckCircle } from 'lucide-react';
 
 const Booking: React.FC = () => {
   return (
