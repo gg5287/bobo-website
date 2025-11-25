@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin, UserCheck, Clock } from 'lucide-react';
+import { MapPin, UserCheck } from 'lucide-react';
 
 const Contact: React.FC = () => {
   return (
