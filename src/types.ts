@@ -15,7 +15,7 @@ export enum WeekDay {
   Thursday = "星期四",
   Friday = "星期五",
   Saturday = "星期六",
-  Sunday = "星期七" // Matching original data structure where Sunday is "星期七"
+  Sunday = "星期七"
 }
 
 export interface NavItem {
